@@ -1,0 +1,12 @@
+G:\Visual Studio Repo\BugSquasher\bin\Debug\dbBugSquasher.mdf
+G:\Visual Studio Repo\BugSquasher\bin\Debug\dbBugSquasher_log.ldf
+G:\Visual Studio Repo\BugSquasher\bin\Debug\BugSquasher.exe.config
+G:\Visual Studio Repo\BugSquasher\bin\Debug\BugSquasher.exe
+G:\Visual Studio Repo\BugSquasher\bin\Debug\BugSquasher.pdb
+G:\Visual Studio Repo\BugSquasher\obj\Debug\BugSquasher.csprojAssemblyReference.cache
+G:\Visual Studio Repo\BugSquasher\obj\Debug\BugSquasher.Properties.Resources.resources
+G:\Visual Studio Repo\BugSquasher\obj\Debug\BugSquasher.csproj.GenerateResource.cache
+G:\Visual Studio Repo\BugSquasher\obj\Debug\BugSquasher.csproj.CoreCompileInputs.cache
+G:\Visual Studio Repo\BugSquasher\obj\Debug\BugSquasher.exe
+G:\Visual Studio Repo\BugSquasher\obj\Debug\BugSquasher.pdb
+G:\Visual Studio Repo\BugSquasher\obj\Debug\BugSquasher.frmMain.resources
